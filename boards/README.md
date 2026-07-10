@@ -1,0 +1,1 @@
+Support files for boards designed by Tinker Tailor, including our upcoming ESP32-based board series. Firmware, pinout references, getting-started examples, and board definitions will land here as boards are released.
