@@ -1,0 +1,1 @@
+Ready-to-flash example code for products in the shop: sensors, displays, LEDs, RFID modules, and soft-circuit materials. Each product folder links back to its shop page and includes wiring notes and pin tables.
