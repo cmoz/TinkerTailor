@@ -53,6 +53,7 @@ Everything supported in this repo is available at **[tinkertailor.ca](https://ti
 - **Something not compiling?** Open an issue with your board, IDE/PlatformIO version, and the full error message.
 - **Improved an example or wrote a new one?** Pull requests are welcome.
 - **Product questions?** Reach us through [tinkertailor.ca](https://tinkertailor.ca).
+- **Stuck, or have questions about a product?** Join us in [Discussions](https://github.com/cmoz/TinkerTailor/discussions/1) — ask questions, share your builds, and suggest future videos.
 
 ## 📜 License
 
